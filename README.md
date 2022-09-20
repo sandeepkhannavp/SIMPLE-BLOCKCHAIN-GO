@@ -1,4 +1,4 @@
-# SIMPLE-BLOCKCHAIN-GO - for (20XT48) Computer Networks lab @PSG COLLEGE OF TECHNOLOGY 
+BLOCKCHAIN-GO - for (20XT48) Computer Networks lab @PSG COLLEGE OF TECHNOLOGY 
 
 Blockchain network using GO - which includes
 
